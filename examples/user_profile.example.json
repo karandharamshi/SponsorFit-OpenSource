@@ -1,0 +1,9 @@
+{
+  "name": "Example Candidate",
+  "minimum_salary_gbp": 41700,
+  "needs_visa_sponsorship": true,
+  "locations": ["Remote UK", "London", "Bristol", "Birmingham"],
+  "target_roles": ["Software Developer", "Application Support Engineer", "Data Engineer"],
+  "skills": ["Python", "SQL", "C#", ".NET", "Azure DevOps", "REST APIs"],
+  "approved_sensitive_answers": {}
+}
