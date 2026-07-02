@@ -22,6 +22,8 @@ SENSITIVE_HINTS = [
     "conviction",
     "medical",
     "reasonable adjustment",
+    "equality",
+    "equal opportunities",
 ]
 
 

@@ -25,6 +25,9 @@ NEGATIVE_PHRASES = [
     "must have the right to work",
     "must already have the right to work",
     "no visa sponsorship",
+    "no sponsorship available",
+    "this role does not qualify for sponsorship",
+    "we are unable to provide visa sponsorship",
 ]
 
 CLEAR_PHRASES = [
@@ -34,6 +37,12 @@ CLEAR_PHRASES = [
     "sponsorship available",
     "sponsorship can be provided",
     "we can sponsor",
+    "uk skilled worker sponsorship",
+    "skilled worker visa sponsorship",
+    "skilled worker route sponsorship",
+    "certificate of sponsorship will be provided",
+    "cos provided",
+    "switch into the skilled worker route",
 ]
 
 LIKELY_PHRASES = [
@@ -41,6 +50,11 @@ LIKELY_PHRASES = [
     "eligible for sponsorship",
     "licensed sponsor",
     "skilled worker visa",
+    "home office sponsor licence",
+    "a-rated sponsor",
+    "candidate requiring sponsorship",
+    "visa sponsorship may be available",
+    "skilled worker route",
 ]
 
 
